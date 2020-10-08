@@ -6,7 +6,7 @@ library(av)
 # library(stringr)
 
 # set the path here
-folder_path = "C:/Users/amith.gurumallapal/vitxt/"
+folder_path = "C:/Users/amith.gurumallapal/vitxt/Improving Your Data Visualizations in Python/"
 setwd(folder_path)
 # READ THE VIDEO FILE
 video_file=list.files(folder_path,pattern = "video")
