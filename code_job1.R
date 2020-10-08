@@ -6,10 +6,10 @@ library(av)
 # library(stringr)
 
 # set the path here
-folder_path = "C:/Users/amith.gurumallapal/vitxt/Interactive Data Visualization with Bokeh/"
+folder_path = "C:/Users/amith.gurumallapal/vitxt/GARCH Models in Python/"
 setwd(folder_path)
 # READ THE VIDEO FILE
-video_file=list.files(folder_path,pattern = ".mp4")
+video_file=list.files(folder_path,pattern = "video")
 # test1=magick::image_read_video(file.choose())
 vilen=length(video_file)
 
