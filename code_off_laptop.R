@@ -9,7 +9,7 @@ library(av)
 folder_path = "C:/Users/amith.gurumallapal/vitxt/Spatial Analysis with sf and raster in R/"
 setwd(folder_path)
 # READ THE VIDEO FILE
-video_file=list.files(folder_path,pattern = "video")
+video_file=list.files(folder_path,pattern = ".mp4")
 # test1=magick::image_read_video(file.choose())
 vilen=length(video_file)
 
