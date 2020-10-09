@@ -6,7 +6,7 @@ library(av)
 # library(stringr)
 
 # set the path here
-folder_path = "C:/Users/amith.gurumallapal/vitxt/Introduction to Data Visualization in Python/"
+folder_path = "C:/Users/amith.gurumallapal/vitxt/Introduction to Deep Learning with PyTorch/"
 setwd(folder_path)
 # READ THE VIDEO FILE
 video_file=list.files(folder_path,pattern = ".mp4")
