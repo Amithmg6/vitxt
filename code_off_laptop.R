@@ -6,7 +6,7 @@ library(av)
 # library(stringr)
 
 # set the path here
-folder_path = ""
+folder_path = "C:/Users/amith.gurumallapal/vitxt/Spoken Language Processing in Python/"
 setwd(folder_path)
 # READ THE VIDEO FILE
 video_file=list.files(folder_path,pattern = ".mp4")
