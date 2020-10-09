@@ -6,7 +6,7 @@ library(av)
 # library(stringr)
 
 # set the path here
-folder_path = "C:/Users/amith.gurumallapal/vitxt/Statistical Thinking in Python (Part 1)/"
+folder_path = "C:/Users/amith.gurumallapal/vitxt/Introduction to Airflow in Python/"
 setwd(folder_path)
 # READ THE VIDEO FILE
 video_file=list.files(folder_path,pattern = ".mp4")
