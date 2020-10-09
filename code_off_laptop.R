@@ -18,7 +18,7 @@ vilen=length(video_file)
 test1=magick::image_read_video(video_file[1])
 
 # pick the right frame
-test1[1]
+# test1[1]
 # test1[20]
 # test1[2]
 img_to_text=test1[1]
