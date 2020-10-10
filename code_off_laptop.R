@@ -6,7 +6,7 @@
   # library(stringr)
   
   # set the path here
-  folder_path = "C:/Users/amith.gurumallapal/vitxt/introduction-to-data-visualization-with-seaborn/"
+  folder_path = "C:/Users/amith.gurumallapal/vitxt/Introduction to sql server/"
   setwd(folder_path)
   # READ THE VIDEO FILE
   video_file=list.files(folder_path,pattern = ".mp4")
