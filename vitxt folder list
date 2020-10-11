@@ -143,3 +143,201 @@ Topic Modeling in R/,Clean
 Transactions and Error Handling in PostgreSQL/,Clean
 Transactions and Error Handling in SQL Server/,Clean
 Tree Based Models in R/,Clean
+
+
+Advanced deep learning with keras/		10/9/20, 10:36:04 PM
+Advanced Dimensionality Reduction in R/		10/9/20, 10:24:55 PM
+Advanced NLP with spaCy/		10/9/20, 10:25:02 PM
+Analyzing business data in sql/		10/9/20, 10:25:09 PM
+Analyzing Election and Polling Data in R/		10/9/20, 10:25:18 PM
+Analyzing IoT Data in Python/		10/9/20, 10:25:26 PM
+Analyzing Marketing Campaigns with pandas/		10/9/20, 10:25:33 PM
+Analyzing police activity with pandas/		10/9/20, 10:26:01 PM
+Analyzing Social Media Data in Python/		10/9/20, 10:26:06 PM
+Analyzing Social Media Data in R/		10/9/20, 10:26:14 PM
+Analyzing Survey Data in R/		10/9/20, 10:26:47 PM
+Anomaly Detection in R/		10/9/20, 10:26:53 PM
+Applying sql to real world problems/		10/9/20, 10:27:00 PM
+ARIMA Models in Python/		10/9/20, 10:27:08 PM
+ARIMA Models in R/		10/9/20, 10:27:25 PM
+Bayesian Modeling with RJAGS/		10/9/20, 10:27:45 PM
+Bayesian Regression Modeling with rstanarm/		10/9/20, 10:27:55 PM
+Big data fundamentals with Pyspark/		10/9/20, 10:28:03 PM
+Building and Optimizing Triggers in SQL Server/		10/9/20, 10:28:11 PM
+Building Chatbots in Python/		10/9/20, 10:28:42 PM
+Building Dashboards with flexdashboard/		10/9/20, 10:29:06 PM
+Building Dashboards with shinydashboard/		10/9/20, 10:29:20 PM
+Building Data Engineering Pipelines in Python/		10/9/20, 10:29:29 PM
+Building Recommendation Engines with PySpark/		10/9/20, 10:29:38 PM
+Building Response Models in R/		10/9/20, 10:29:44 PM
+Building Web Applications with Shiny in R/		10/9/20, 10:29:55 PM
+Business Process Analytics in R/		10/9/20, 10:30:04 PM
+Case Studies in Statistical Thinking/		10/9/20, 10:30:04 PM
+Case Studies Manipulating Time Series Data in R/		10/9/20, 10:30:15 PM
+Case Studies Network Analysis in R/		10/9/20, 10:30:33 PM
+Case Study Exploratory Data Analysis in R/		10/9/20, 10:30:52 PM
+Choice Modeling for Marketing in R/		10/9/20, 10:31:30 PM
+Cleaning Data in PostgreSQL Databases/		10/9/20, 10:31:39 PM
+Cleaning data in python/		10/9/20, 10:31:50 PM
+Cleaning Data in R/		10/9/20, 10:31:59 PM
+Cleaning Data in SQL Server Databases/		10/9/20, 10:32:07 PM
+Cleaning data with pyspark/		10/9/20, 10:32:13 PM
+cleaning-data-in-r/		10/9/20, 10:32:30 PM
+Cluster Analysis in Python/		10/9/20, 10:32:36 PM
+Cluster Analysis in R/		10/9/20, 10:33:07 PM
+Command Line Automation in Python/		10/9/20, 10:33:14 PM
+Creating PostgreSQL Databases/		10/9/20, 10:33:21 PM
+Creating Robust Workflows in Python/		10/9/20, 10:33:34 PM
+Credit Risk Modeling in R/		10/9/20, 10:33:41 PM
+Customer Analytics and AB Testing in Python/		10/9/20, 10:33:52 PM
+Customer Segmentation in Python/		10/9/20, 10:33:57 PM
+Data driven decision making in sql/		10/9/20, 10:34:08 PM
+Data manipulation with dplyr/		10/9/20, 10:34:15 PM
+Data manipulation with pandas/		10/9/20, 10:34:24 PM
+Data Processing in Shell/		10/9/20, 10:34:31 PM
+Data Types for Data Science in Python/		10/9/20, 10:34:51 PM
+Database design/		10/9/20, 10:35:10 PM
+Dealing With Missing Data in R/		10/9/20, 10:35:19 PM
+Designing Machine Learning Workflows in Python/		10/9/20, 10:35:24 PM
+Developing R Packages/		10/9/20, 10:35:24 PM
+Dimensionality Reduction in Python/		10/9/20, 10:35:33 PM
+Dimensionality Reduction in R/		10/9/20, 10:35:37 PM
+Ensemble Methods in Python/		10/9/20, 8:38:12 PM
+Equity Valuation in R/		10/9/20, 8:38:18 PM
+Experimental Design in Python/		10/9/20, 8:38:28 PM
+Experimental Design in R/		10/9/20, 8:38:49 PM
+Exploratory data analysis in python/		10/9/20, 8:38:57 PM
+Exploratory data analysis in r/		10/9/20, 8:39:18 PM
+Exploratory Data Analysis in SQL/		10/9/20, 8:39:26 PM
+Extreme Gradient Boosting with XGBoost/		10/9/20, 8:39:51 PM
+Feature Engineering for Machine Learning in Python/		10/9/20, 7:49:08 PM
+Feature Engineering for NLP in Python/		10/9/20, 7:49:13 PM
+Feature Engineering in R/		10/9/20, 7:49:15 PM
+Feature Engineering with PySpark/		10/9/20, 7:49:18 PM
+Financial Forecasting in Python/		10/9/20, 7:49:22 PM
+Financial Trading in R/		10/9/20, 7:49:33 PM
+Forecasting in R/		10/9/20, 7:49:49 PM
+Foundations of Probability in Python/		10/9/20, 7:49:58 PM
+Fraud Detection in Python/		10/9/20, 7:45:47 PM
+Fraud Detection in R/		10/9/20, 7:45:51 PM
+Functions for Manipulating Data in PostgreSQL/		10/9/20, 7:45:56 PM
+Functions for manipulating data in sql server/		10/9/20, 7:45:58 PM
+Fundamentals of Bayesian Data Analysis in R/		10/9/20, 7:46:02 PM
+GARCH Models in Python/		10/8/20, 4:24:23 PM
+Generalized Linear Models in Python/		10/8/20, 5:15:00 PM
+Handling Missing Data with Imputations in R/		10/9/20, 8:40:00 PM
+Heirarchy and recursive querying SQL/		10/9/20, 8:40:08 PM
+Hierarchical and Mixed Effects Models in R/		10/9/20, 8:40:28 PM
+Human resources analytics exploring employee data in R/		10/9/20, 8:40:57 PM
+Human resources analytics predicting employee churn/		10/9/20, 8:41:04 PM
+Hyperparameter Tuning in Python/		10/9/20, 8:41:12 PM
+Hyperparameter Tuning in R/		10/9/20, 8:41:19 PM
+Image Processing in Python/		10/9/20, 8:41:34 PM
+Image processing with keras in python/		10/9/20, 8:42:04 PM
+Importing and Managing Financial Data in Python/		10/9/20, 8:42:16 PM
+Improving query performance in postgresql/		10/9/20, 8:15:39 AM
+Improving Query Performance in SQL Server/		10/8/20, 6:56:45 PM
+Improving Your Data Visualizations in Python/		10/8/20, 5:46:53 PM
+Interactive Data Visualization with Bokeh/		10/8/20, 3:30:34 PM
+Interactive Data Visualization with plotly in R/		10/8/20, 8:58:37 PM
+Interactive Maps with leaflet in R/		10/9/20, 8:16:06 AM
+Intermediate Data Visualization with ggplot2/		10/9/20, 8:16:15 AM
+intermediate data viz using seaborn/		10/9/20, 8:16:49 AM
+Intermediate Functional Programming with purrr/		10/9/20, 8:16:53 AM
+Intermediate Importing Data in Python/		10/9/20, 8:17:08 AM
+Intermediate Importing Data in R/		10/9/20, 8:17:28 AM
+Intermediate Interactive Data Visualization with plotly in R/		10/9/20, 8:17:34 AM
+Intermediate Network Analysis in Python/		10/9/20, 12:14:00 AM
+Intermediate Portfolio Analysis in R/		10/9/20, 8:17:40 AM
+Intermediate Predictive Analytics in Python/		10/9/20, 8:17:48 AM
+Intermediate Python/		10/9/20, 8:18:29 AM
+Intermediate Python for Finance/		10/9/20, 8:18:39 AM
+Intermediate R/		10/8/20, 10:57:12 PM
+Intermediate R for Finance/		10/9/20, 8:19:00 AM
+Intermediate Regression in R/		10/8/20, 11:20:57 PM
+Intermediate Regular Expressions in R/		10/8/20, 11:59:19 PM
+Intermediate Spreadsheets/		10/8/20, 10:56:53 PM
+Intermediate SQL/		10/9/20, 8:19:33 AM
+Intermediate SQL Server/		10/8/20, 10:57:03 PM
+Intermediate Statistical Modeling in R/		10/8/20, 10:03:00 PM
+intermediate-data-visualization-with-ggplot2/		10/9/20, 8:42:26 PM
+intermediate-importing-data-in-python/		10/9/20, 8:42:39 PM
+Introduction to Airflow in Python/		10/9/20, 11:52:25 PM
+Introduction to bash scripting/		10/9/20, 11:53:27 PM
+Introduction to Data Engineering/		10/10/20, 12:47:10 AM
+Introduction to Data Visualization in Python/		10/10/20, 1:20:37 AM
+Introduction to Data Visualization with Matplotlib/		10/11/20, 10:26:08 AM
+Introduction to Databases in Python/		10/11/20, 10:26:38 AM
+Introduction to Deep Learning using Keras/		10/10/20, 1:00:24 AM
+Introduction to Deep Learning with PyTorch/		10/10/20, 3:10:01 AM
+Introduction to Importing Data in R/		10/11/20, 10:24:47 AM
+Introduction to Natural Language Processing in R/		10/10/20, 9:06:26 AM
+Introduction to Oracle SQL/		10/10/20, 9:44:17 AM
+Introduction to Predictive Analytics in Python/		10/10/20, 12:01:36 PM
+Introduction to Regression in R/		10/10/20, 10:38:52 AM
+Introduction to spark with sparklyr in r/		10/11/20, 10:24:53 AM
+Introduction to Statistical Modeling in R/		10/10/20, 3:51:53 PM
+introduction-to-data-visualization-with-ggplot2/		10/10/20, 12:10:23 PM
+introduction-to-importing-data-in-python/		10/10/20, 12:09:37 PM
+introduction-to-the-tidyverse/		10/10/20, 12:10:06 PM
+introduction-to-writing-functions-in-r/		10/10/20, 11:53:30 AM
+joining-data-with-dplyr/		10/9/20, 8:42:47 PM
+joining-data-with-pandas/		10/9/20, 8:42:58 PM
+Machine Learning for Finance in Python/		10/9/20, 8:43:28 PM
+Machine Learning for Marketing Analytics in R/		10/9/20, 8:44:04 PM
+Machine Learning for Marketing in Python/		10/9/20, 8:44:16 PM
+Machine Learning for Time Series Data in Python/		10/9/20, 8:44:27 PM
+Machine Learning in the Tidyverse/		10/9/20, 8:44:53 PM
+Machine Learning with caret in R/		10/9/20, 8:45:23 PM
+Machine Learning with spark/		10/9/20, 8:45:37 PM
+Machine Learning with Tree-Based Models in Python/		10/9/20, 8:45:46 PM
+Machine Translation in Python/		10/9/20, 8:45:56 PM
+Machine Translation in Python check it/		10/9/20, 8:46:08 PM
+Manipulating DataFrames with pandas/		10/9/20, 8:46:34 PM
+Manipulating Time Series Data in Python/		10/9/20, 8:47:05 PM
+Manipulating Time Series Data with xts and zoo in R/		10/9/20, 8:47:28 PM
+Market Basket Analysis in R/		10/9/20, 8:47:41 PM
+Marketing Analytics Predicting Customer Churn in Python/		10/9/20, 8:47:46 PM
+Merging DataFrames with pandas/		10/9/20, 8:48:06 PM
+Mixture Models in R/		10/9/20, 8:48:16 PM
+Model Validation in Python/		10/9/20, 8:48:20 PM
+Natural Language Generation in Python/		10/9/20, 8:48:27 PM
+Network Analysis in R/		10/9/20, 8:48:46 PM
+Network Analysis in the Tidyverse/		10/9/20, 8:48:52 PM
+Nonlinear Modeling in R with GAMs/		10/9/20, 8:49:24 PM
+pandas foundation/		10/9/20, 7:46:15 PM
+Parallel Programming in R/		10/9/20, 7:46:19 PM
+Parallel Programming with Dask in Python/		10/8/20, 9:02:06 PM
+Postgresql summary stats and window functions/		10/9/20, 7:46:23 PM
+Practicing Machine Learning Interview Questions in Python/		10/9/20, 7:46:30 PM
+Practicing Statistics Interview Questions in Python/		10/9/20, 7:46:31 PM
+Predicting CTR with Machine Learning in Python/		10/9/20, 7:46:35 PM
+Predictive Analytics using Networked Data in R/		10/9/20, 7:46:39 PM
+Preprocessing for Machine Learning in Python/		10/9/20, 7:46:49 PM
+Python data science toolbox part 2/		10/9/20, 7:46:56 PM
+scala course/		10/9/20, 7:47:00 PM
+Scalable Data Processing in R/		10/9/20, 3:20:28 PM
+Sentiment Analysis in Python/		10/9/20, 10:10:58 AM
+Sentiment Analysis in R/		10/9/20, 2:54:14 PM
+Software Engineering for Data Scientists in Python/		10/9/20, 1:37:38 PM
+Spatial Analysis with sf and raster in R/		10/9/20, 5:32:06 PM
+Spoken Language Processing in Python/		10/9/20, 4:29:51 PM
+Statistical Thinking in Python (Part 1)/		10/10/20, 4:12:31 PM
+Streamlined Data Ingestion with pandas/		10/9/20, 12:50:03 PM
+Supervised Learning in R Classification/		10/9/20, 7:47:20 PM
+Supervised Learning in R Regression/		10/9/20, 7:47:38 PM
+Supervised learning with scikit learn/		10/9/20, 7:47:59 PM
+Supply Chain Analytics in Python/		10/9/20, 10:59:55 AM
+Support Vector Machines in R/		10/9/20, 2:55:24 PM
+Survival Analysis in R/		10/9/20, 9:13:32 AM
+Text Mining with Bag-of-Words in R/		10/11/20, 10:24:53 AM
+Time Series Analysis in Python/		10/9/20, 7:48:13 PM
+Time Series Analysis in R/		10/9/20, 7:48:28 PM
+Time series analysis in sql server/		10/11/20, 10:25:01 AM
+Time Series with data.table in R/		10/9/20, 7:48:36 PM
+Topic Modeling in R/		10/9/20, 7:48:39 PM
+Transactions and Error Handling in PostgreSQL/		10/9/20, 7:48:42 PM
+Transactions and Error Handling in SQL Server/		10/9/20, 7:48:45 PM
+Tree Based Models in R/		10/9/20, 7:49:03 PM
+Working with dates and times in r/		10/11/20, 10:25:24 AM
+Working with dates in python/		10/11/20, 10:25:29 AM
