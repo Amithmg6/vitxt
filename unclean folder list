@@ -1,33 +1,36 @@
-cleaning-data-in-python
-Forecasting Product Demand in R
+# CLEANED
 Intermediate Python Datacamp - nothing to clean
-Introduction to Natural Language Processing in Python
-Introduction to network analysis in python
+Introduction to Natural Language Processing in Python --clean
+Introduction to network analysis in python -- clean
 Introduction to R for Finance -- cleaned
 Introduction to sql server -- cleaned
 introduction-to-data-visualization-with-seaborn -- cleaned
 Joining Data in SQL -- cleaned
-joining-data-with-pandas 
-Life Insurance Products Valuation in R
+joining-data-with-pandas -- cleaned
+python-data-science-toolbox-part-1 -- cleaned
+Spatial Statistics in R -- cleaned
+String Manipulation with stringr in R -- cleaned
+Web Scraping in Python -- cleaned
+Working with dates in python -- cleaned
+Working with Geospatial Data in Python -- cleaned
+Writing Efficient Code with pandas -- cleaned
+Writing Efficient Python Code -- cleaned
+Writing Functions and Stored Procedures in SQL Server -- cleaned
+writing-functions-in-python -- cleaned
+
+# not cleaned
+cleaning-data-in-python
+Forecasting Product Demand in R
+Life Insurance Products Valuation in R 
 Linear Classifiers in Python
 Object-Oriented Programming with S3 and R6 in R
 practice interview questions
-Python for R Users
-python-data-science-toolbox-part-1
+Python for R Users 
 Recurrent Neural Networks for Language Modeling in Python
 Reporting in sql
 Reporting with R Markdown
-Spatial Statistics in R
-String Manipulation with stringr in R
 Unit Testing for Data Science in Python
 Unsupervised Learning in R
 unsupervised-learning-in-python
 Visualizing Geospatial Data in R
 Visualizing Time Series Data in Python
-Web Scraping in Python -- cleaned
-Working with dates in python
-Working with Geospatial Data in Python
-Writing Efficient Code with pandas
-Writing Efficient Python Code
-Writing Functions and Stored Procedures in SQL Server
-writing-functions-in-python
