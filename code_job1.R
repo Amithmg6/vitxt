@@ -6,7 +6,7 @@ library(av)
 # library(stringr)
 
 # set the path here
-folder_path = ""
+folder_path = "/temp_for_conversion/"
 setwd(folder_path)
 # READ THE VIDEO FILE
 video_file=list.files(folder_path,pattern = ".mp4")
